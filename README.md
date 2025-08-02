@@ -185,7 +185,7 @@ Estatísticas da sessão:
 - Vitórias: 1
 - Última palavra: PROGRAMACAO (VITÓRIA)
 
-Desenvolvido por: [Nome do Aluno]
+Desenvolvido por: gmv
 Sistema encerrado.
 
 Desenvolvido por: gmv - https://www.linkedin.com/in/goncalomv/
